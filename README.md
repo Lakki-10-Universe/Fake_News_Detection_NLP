@@ -1,6 +1,6 @@
 # Fake News Detection NLP
 
-> Outline a brief description of your project.
+This project focuses on building a Fake News Detection system using advanced Natural Language Processing (NLP) techniques. By leveraging the Word2Vec model and multiple supervised learning algorithms—including Logistic Regression, Decision Tree, and Random Forest classifiers—the system classifies news articles as either true or fake based on their textual content. The project not only explores data cleaning, preprocessing, and exploratory data analysis but also compares the performance of different machine learning models to determine the most accurate and efficient approach. This solution aims to combat misinformation by providing an automated, reliable tool for news verification.
 
 
 ## Table of Contents
