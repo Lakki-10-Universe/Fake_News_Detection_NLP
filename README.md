@@ -11,7 +11,7 @@ This project focuses on building a Fake News Detection system using advanced Nat
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- **Problem Statement:**<br>
+- **<u>Problem Statement</u>:**<br>
 The spread of fake news has become a significant challenge in today’s digital world. With the massive volume of news articles published daily, it’s becoming harder to distinguish between credible and misleading information. This creates a need for systems that can automatically classify news articles as true or fake, helping to reduce misinformation and protect public trust.
 - **Objective:**<br>
 The objective of this project is to develop a Semantic Classification model that employs the Word2Vec method to identify recurring patterns and themes in news articles. The goal is to build a system using supervised learning models to classify news articles as either fake or true.
