@@ -56,4 +56,4 @@ In real-world applications, the Logistic Regression model's superior performance
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by LakshmiKanth [@Lakki-10-Universe] - feel free to contact me!
+Created by LakshmiKanth [@[Lakki-10-Universe](https://github.com/Lakki-10-Universe)] - feel free to contact me!
